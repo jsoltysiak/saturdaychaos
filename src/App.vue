@@ -18,6 +18,7 @@
 }
 
 #nav {
+  display: none;
   padding: 30px;
 
   a {

@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <img alt="Vue logo" src="../assets/logo_saturdaychaos.svg" />
+        <img class="logo" alt="Vue logo" src="../assets/logo_saturdaychaos.svg" />
     </div>
 </template>
 
@@ -15,5 +15,8 @@ export default {
 <style scoped lang="scss">
 .home {
     //background-color: #000;
+}
+.logo {
+    width: 100%;
 }
 </style>
